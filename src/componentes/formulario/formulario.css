@@ -1,0 +1,17 @@
+.cardFormulario {
+    max-width: 1121px;
+    background-color: #F2F2F2;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px auto;
+    display: flex;
+    gap: 14px;
+    flex-direction: column;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
